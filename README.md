@@ -1,2 +1,2 @@
 # html-portfolio
-My Personal Projects from appbrewery tutorials
+My Personal Project from appbrewery tutorials
